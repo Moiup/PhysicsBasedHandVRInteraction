@@ -1,4 +1,4 @@
-# **Physics-Based Hand VR Interaction**
+# **Pure Physics-Based Hand Interaction in VR**
 
 <!-- ![](imgs/lift2_new.png) ![](imgs/throw1_1.1.1.png) ![](imgs/throw2_1.1.2.png) -->
 
