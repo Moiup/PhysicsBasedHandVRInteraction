@@ -2,9 +2,9 @@
 
 <!-- ![](imgs/lift2_new.png) ![](imgs/throw1_1.1.1.png) ![](imgs/throw2_1.1.2.png) -->
 
-<img src="imgs/lift2_new.png" width="250" height="auto">
-<img src="imgs/throw1_1.1.1.png" width="250" height="auto">
-<img src="imgs/throw2_1.1.2.png" width="250" height="auto">
+<img src="imgs/lift2_new.png" width="250" height="auto" display="inline-block">
+<img src="imgs/throw1_1.1.1.png" width="250" height="auto" display="inline-block">
+<img src="imgs/throw2_1.1.2.png" width="250" height="auto" display="inline-block">
 
 ## **Abstract**
 
