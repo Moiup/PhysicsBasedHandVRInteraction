@@ -2,15 +2,15 @@
 
 <!-- ![](imgs/lift2_new.png) ![](imgs/throw1_1.1.1.png) ![](imgs/throw2_1.1.2.png) -->
 
-<style>
+<!-- <style>
     #top-img{
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
     }
-</style>
+</style> -->
 
-<div id="top-img">
+<div id="top-img" display="flex" flex-direction="row" justify-content="space-evenly">
 <img src="imgs/lift2_new.png" width="250" height="auto">
 <img src="imgs/throw1_1.1.1.png" width="250" height="auto">
 <img src="imgs/throw2_1.1.2.png" width="250" height="auto">
