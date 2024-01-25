@@ -8,7 +8,6 @@
         flex-direction: row;
         justify-content: space-evenly;
     }
-
 </style>
 
 <div id="top-img">
