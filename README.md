@@ -33,7 +33,7 @@ Mohammed-Bashir Mahdi, Erwan Guillou, Alexandre Meyer, Arash Habibi, and Saïda 
 
 ### BibTex
 ```
-@article{Loubet2019Reparameterizing,
+@article{Mahdi2024PhysiscsHand,
     author = {Mohammed-Bashir Mahdi and Erwan Guillou and Alexandre Meyer and Arash Habibi and Saïda Bouakaz},
     title = {Pure Physics-Based Hand Interaction in VR},
     journal = {VisiGRAPP},
